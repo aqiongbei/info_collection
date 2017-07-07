@@ -1,5 +1,7 @@
 # sublimeCode
-someSublimeCode
+一些可用的sublime注册码
+
+## 3140 开发版本
 ```sh
 —– BEGIN LICENSE —–
 TwitterInc
