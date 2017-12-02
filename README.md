@@ -1,7 +1,10 @@
 # sublime text 3 license key
-一些可用的sublime license key
+Some enable sublime license key
 
-## 3140 之后正式版可用(dev build 不可用)
+## Notice
+Sublime Text 3 dev builds are available to licensed users only.
+
+## After 3140 Stable (Not for Dev)
 ```sh
 —– BEGIN LICENSE —–
 TwitterInc
