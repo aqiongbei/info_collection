@@ -1,5 +1,5 @@
-# sublimeCode
-一些可用的sublime注册码
+# sublime text 3 license key
+一些可用的sublime license key
 
 ## 3140 之后正式版可用(dev build 不可用)
 ```sh
