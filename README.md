@@ -1,10 +1,34 @@
-# sublime text 3 license key
-Some enable sublime license key
+# my sublime text 3 config and license key
+## config
 
-## Notice
-Sublime Text 3 dev builds are available to licensed users only.
+```json
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"show_definitions": false,
+	"show_encoding": true,
+	"theme": "Adaptive.sublime-theme",
+	"draw_white_space": "all",
+	"translate_tabs_to_spaces": true,
+	"tab_size": 4
+}
+```
+
+## plugin
+
+- HTML-CSS-JS Prettify
+- OmniMarkupPreviewer
+- AutoFileName
+- DocBlockr
+- Emmet
+- Nodejs
 
 ## After 3140 Stable (Not for Dev)
+> **Notice:** Sublime Text 3 dev builds are available to licensed users only.
 ```sh
 —– BEGIN LICENSE —–
 TwitterInc
