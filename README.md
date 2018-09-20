@@ -27,7 +27,7 @@
 - Emmet
 - Nodejs
 
-## key
+## license key
 ### After 3140 Stable (Not for Dev)
 > **Notice:** Sublime Text 3 dev builds are available to licensed users only.
 ```sh
