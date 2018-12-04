@@ -20,6 +20,7 @@
 
 ## plugin
 
+- Vue Syntax Highlight
 - HTML-CSS-JS Prettify
 - OmniMarkupPreviewer
 - AutoFileName
