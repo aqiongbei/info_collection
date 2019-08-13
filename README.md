@@ -27,6 +27,9 @@
 - DocBlockr
 - Emmet
 - Nodejs
+- LESS
+- Syntax Highlighting for Sass
+- Vue Syntax Highlight
 
 ## license key
 ### 3200
