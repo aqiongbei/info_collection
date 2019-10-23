@@ -17,6 +17,10 @@
 	"tab_size": 4
 }
 ```
+## code snippets
+
+- [console.log()](./log.sublime-snippet)
+- [vue template](./vue_template.sublime-snippet)
 
 ## plugin
 
